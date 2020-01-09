@@ -6,7 +6,7 @@
 
 ### User 
 Note: 
-- python
+- csharp
 - authentication and authorization
 - passwordless pake link
 
@@ -34,7 +34,7 @@ Note
 
 ### Payment
 Note:
-- nodejs
+- golang
 - manual transfer
 
 **Versi 2**
